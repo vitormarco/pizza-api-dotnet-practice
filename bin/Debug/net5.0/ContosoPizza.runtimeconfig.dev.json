@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/vitoramarco/.dotnet/store/|arch|/|tfm|",
-      "/home/vitoramarco/.nuget/packages"
-    ]
-  }
-}
